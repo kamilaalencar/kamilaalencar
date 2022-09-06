@@ -40,3 +40,7 @@ Desenvolvedora Fullstack | Front-End
   <a href="https://twitter.com/KamilaAlencarM2/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   </h2>
 </div>
+
+![Snake animation](https://github.com/kamilaalencar/kamilaalencar/blob/output/github-contribution-grid-snake.svg)
+
+
